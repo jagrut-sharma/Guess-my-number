@@ -8,6 +8,6 @@ For playing agin click on Again! button and you will keep playing again.
 
 _Made using HTML, CSS and Vanilla JS_
 
-Learnt from Jonas Schmedtmann Udemy course about JS.
+Learnt from Jonas Schmedtmann Udemy course about JS. You can visit the site [here](https://guessmynumber-jagrut.netlify.app/)
 
 Have fun!
