@@ -4,7 +4,7 @@ Guess a number between 1 and 20 and check if you've guessed right.
 
 The score will keep decreasing with each wrong guess.
 
-For playing agin click on Again! button and you will keep playing again.
+For playing again click on Again! button and game will begin again with highscore intact.
 
 _Made using HTML, CSS and Vanilla JS_
 
